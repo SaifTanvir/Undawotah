@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to UndaWotah site
 
-You can use the [editor on GitHub](https://github.com/SaifTanvir/Undawotah.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Now you have clicked on my site you shauwa now u have to pay me 200$
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###If u dont pay I will ching chong your ass     
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+M
 
 # Header 1
 ## Header 2
@@ -25,13 +22,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaifTanvir/Undawotah.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
